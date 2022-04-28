@@ -1,0 +1,11 @@
+Presets de Kairatune:
+-Auto Acid
+-Ice Leads
+-Dubby Bass (ambiente)
+
+
+Configuración del proyecto:
+-Escala: mayor 
+-Progresión: I IV V III I (Preguntar si se toca los acordes de la escala mayor en un escala distinta con el key snap del midi, ya se ponen los correctos en dicha escala)
+	  
+-Tracks: Ambiente, Bateria,Bajo, Arpegiador
